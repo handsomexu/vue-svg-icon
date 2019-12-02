@@ -1,5 +1,5 @@
 /**
- * @author xuda-21609
+ * @author xuda
  * @date 2019/9/23 
  * @Description: 注册svg组件
 */
